@@ -4,8 +4,6 @@
   "description": "Serveur de Sons batteries",
   "main": "index.js",
   "dependencies": {
-    "ask-sdk": "^2.7.0",
-    "ask-sdk-core": "^2.7.0",
     "express": "^4.17.1"
   },
   "devDependencies": {},
